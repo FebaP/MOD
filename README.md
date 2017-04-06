@@ -1,8 +1,7 @@
 
 <html>
 <body>
-<b>Ministry Of Defence</b>
-<h1> Details </h1>
+<b><h1>Ministry Of Defence</h1></b>
 <table>
 <tr>
 <th> Tag </th>
