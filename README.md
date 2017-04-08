@@ -6,6 +6,7 @@
 <tr>
 <th> Tag </th>
 <th> Details</th>
+<th> Suggestion </th>
 </tr>
 <tr>
 <td>Page Title</td>
