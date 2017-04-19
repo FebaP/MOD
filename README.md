@@ -62,12 +62,12 @@ But here ,
 <td>Robots.txt</td>
 <td> Found</td>
 <td>This site use a "robots.txt"</td>
-<td><td> <a href=" http://mod.nic.in/robots.txt"> <b> ROBOT.TXT </b></a> <br />using a Robots.txt, we can tell a spider or a Robot that you do not want some of your pages indexed,or that you do not want your links followed.</td>
+<td><a href="http://mod.nic.in/robots.txt"> <b> ROBOT.TXT </b></a> <br />using a Robots.txt, we can tell a spider or a Robot that you do not want some of your pages indexed,or that you do not want your links followed.</td>
 </tr>
 <tr>
 <td> Site Map </td>
 <td> 1 sitemap found </td>
-<td> <a href=" http://www.mod.nic.in/sitemap.xml"> <b> Sitemap </b></a> </td>
+<td> <a href="http://www.mod.nic.in/sitemap.xml"> <b> Sitemap </b></a> </td>
 <td>A sitemap is a list of pages of a web site accessible to crawlers or users.It is good to have sitemap
  Adding a multiple sitemap structure does not guarantee better indexation or more traffic.</td>
 </tr>
@@ -122,7 +122,7 @@ But here ,
 <p>
 <table>
 <tr>
-<td><b>ADMIN NAME:</b> <i>Director RTI</i></td>
+<td><b>ADMIN NAME:</b> <i>Director MOD</i></td>
 </tr>
 </table>
 <p>
